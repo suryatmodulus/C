@@ -46,7 +46,7 @@ var NAVTREE =
     [ "CONTRIBUTION GUIDELINES", "d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html", [
       [ "Before contributing", "d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html#autotoc_md13", null ],
       [ "Contributing", "d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html#autotoc_md14", [
-        [ "Maintainer/developer", "d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html#autotoc_md15", null ],
+        [ "Maintainer/reviewer", "d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html#autotoc_md15", null ],
         [ "Contributor", "d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html#autotoc_md16", null ],
         [ "Making Changes", "d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html#autotoc_md17", [
           [ "Code", "d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html#autotoc_md18", null ],
@@ -91,7 +91,7 @@ var NAVTREE =
       [ "Searching", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md55", null ],
       [ "Sorting", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md56", null ]
     ] ],
-    [ "Sample solutions for <a href=\"http://exercism.io/\">exercism.io</a>", "d7/db5/md_exercism__r_e_a_d_m_e.html", null ],
+    [ "Sample solutions for <a href=\"http://exercism.io/\" target=\"_blank\" >exercism.io</a>", "d7/db5/md_exercism__r_e_a_d_m_e.html", null ],
     [ "Hash algorithms", "d4/dcb/md_hash__r_e_a_d_m_e.html", null ],
     [ "LeetCode", "df/d58/md_leetcode__r_e_a_d_m_e.html", null ],
     [ "ProjectEuler", "d8/d81/md_project_euler__r_e_a_d_m_e.html", null ],
@@ -121,10 +121,9 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "annotated.html",
-"d4/d7b/problem__6_2sol_8c.html",
-"d7/d98/spirograph_8c.html#a525335710b53cb064ca56b936120431e",
-"dc/d9a/group__quats.html#ga8cc5e5b7a5fa492423ecf034c8bb52bd",
-"globals_func_s.html"
+"d5/d23/qr__decomposition_8c.html",
+"da/d02/binary__search__tree_8c.html#a0f18adaaca5ecc410cfa16dd2a3684dc",
+"de/dff/heap__sort__2_8c.html#a00cd944b33a5fe5972111ded9b49793c"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
